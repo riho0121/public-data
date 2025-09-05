@@ -1,0 +1,2570 @@
+[
+    {
+        "difficult_word": "史家",
+        "easy_word": "史家(かっこ地理学者,ジャーナリスト)"
+    },
+    {
+        "difficult_word": "市価",
+        "easy_word": "市価(かっこ市場価格,売値)"
+    },
+    {
+        "difficult_word": "師家",
+        "easy_word": "師家(かっこ門主,嗣法)"
+    },
+    {
+        "difficult_word": "志賀",
+        "easy_word": "志賀(かっこ富永,清野)"
+    },
+    {
+        "difficult_word": "私家",
+        "easy_word": "私家(かっこ縮刷,覆刻)"
+    },
+    {
+        "difficult_word": "糸価",
+        "easy_word": "糸価(かっこした職,估価)"
+    },
+    {
+        "difficult_word": "詩家",
+        "easy_word": "詩家(かっこ名妓,閑適)"
+    },
+    {
+        "difficult_word": "詩歌",
+        "easy_word": "詩歌(かっこ俳諧,俳句)"
+    },
+    {
+        "difficult_word": "雌花",
+        "easy_word": "雌花(かっこ花序,雌しべ)"
+    },
+    {
+        "difficult_word": "亀鑑",
+        "easy_word": "亀鑑(かっこ御事,遙邨)"
+    },
+    {
+        "difficult_word": "基幹",
+        "easy_word": "基幹(かっこ後方支援,包括)"
+    },
+    {
+        "difficult_word": "奇観",
+        "easy_word": "奇観(かっこ奇勝)"
+    },
+    {
+        "difficult_word": "季刊",
+        "easy_word": "季刊(かっこ月刊)"
+    },
+    {
+        "difficult_word": "帰艦",
+        "easy_word": "帰艦(かっこ退艦,乗艦)"
+    },
+    {
+        "difficult_word": "帰還",
+        "easy_word": "帰還(かっこ到着,送還)"
+    },
+    {
+        "difficult_word": "帰館",
+        "easy_word": "帰館(かっこ暇乞い,お発ち)"
+    },
+    {
+        "difficult_word": "旗艦",
+        "easy_word": "旗艦(かっこ軽巡,艦長)"
+    },
+    {
+        "difficult_word": "既刊",
+        "easy_word": "既刊(かっこ単行本)"
+    },
+    {
+        "difficult_word": "期間",
+        "easy_word": "期間(かっこ年限,限定)"
+    },
+    {
+        "difficult_word": "機関",
+        "easy_word": "機関(かっこ専門機関,公的)"
+    },
+    {
+        "difficult_word": "気管",
+        "easy_word": "気管(かっこ膀胱,気道)"
+    },
+    {
+        "difficult_word": "軌間",
+        "easy_word": "軌間(かっこ標準軌)"
+    },
+    {
+        "difficult_word": "公家",
+        "easy_word": "公家(かっこ権門,昵近)"
+    },
+    {
+        "difficult_word": "公課",
+        "easy_word": "公課(かっこ特別控除,税目)"
+    },
+    {
+        "difficult_word": "功過",
+        "easy_word": "功過(かっこ条々,相判)"
+    },
+    {
+        "difficult_word": "劫火",
+        "easy_word": "劫火(かっこ狒狒,天壌)"
+    },
+    {
+        "difficult_word": "効果",
+        "easy_word": "効果(かっこ作用,効き目)"
+    },
+    {
+        "difficult_word": "工科",
+        "easy_word": "工科(かっこ州立大学,高等)"
+    },
+    {
+        "difficult_word": "校歌",
+        "easy_word": "校歌(かっこ寮歌)"
+    },
+    {
+        "difficult_word": "甲賀",
+        "easy_word": "甲賀(かっこ伊賀)"
+    },
+    {
+        "difficult_word": "硬化",
+        "easy_word": "硬化(かっこ軟化)"
+    },
+    {
+        "difficult_word": "紅花",
+        "easy_word": "紅花(かっこ藍,ベニバナ)"
+    },
+    {
+        "difficult_word": "降下",
+        "easy_word": "降下(かっこ着水,下降)"
+    },
+    {
+        "difficult_word": "降嫁",
+        "easy_word": "降嫁(かっこ入内,立后)"
+    },
+    {
+        "difficult_word": "高価",
+        "easy_word": "高価(かっこ安価)"
+    },
+    {
+        "difficult_word": "高架",
+        "easy_word": "高架(かっこ複々線,陸橋)"
+    },
+    {
+        "difficult_word": "四季",
+        "easy_word": "四季(かっこ折々)"
+    },
+    {
+        "difficult_word": "士気",
+        "easy_word": "士気(かっこ戦意,志気)"
+    },
+    {
+        "difficult_word": "始期",
+        "easy_word": "始期(かっこ終期)"
+    },
+    {
+        "difficult_word": "志木",
+        "easy_word": "志木(かっこパークタウン,朝霞)"
+    },
+    {
+        "difficult_word": "志気",
+        "easy_word": "志気(かっこ士気)"
+    },
+    {
+        "difficult_word": "指揮",
+        "easy_word": "指揮(かっこ統率,監督)"
+    },
+    {
+        "difficult_word": "死期",
+        "easy_word": "死期(かっこ重病)"
+    },
+    {
+        "difficult_word": "私記",
+        "easy_word": "私記(かっこ聞書,史伝)"
+    },
+    {
+        "difficult_word": "紙器",
+        "easy_word": "紙器(かっこ切削工具,板紙)"
+    },
+    {
+        "difficult_word": "厚意",
+        "easy_word": "厚意(かっこ計らい,はからい)"
+    },
+    {
+        "difficult_word": "好意",
+        "easy_word": "好意(かっこ同情,恋心)"
+    },
+    {
+        "difficult_word": "行為",
+        "easy_word": "行為(かっこ不法行為,暴挙)"
+    },
+    {
+        "difficult_word": "攻囲",
+        "easy_word": "攻囲(かっこ包囲)"
+    },
+    {
+        "difficult_word": "更衣",
+        "easy_word": "更衣(かっこ券売,ロッカー)"
+    },
+    {
+        "difficult_word": "校医",
+        "easy_word": "校医(かっこ数学教師,教頭)"
+    },
+    {
+        "difficult_word": "校異",
+        "easy_word": "校異(かっこ解題,校合)"
+    },
+    {
+        "difficult_word": "皇位",
+        "easy_word": "皇位(かっこ皇嗣)"
+    },
+    {
+        "difficult_word": "高位",
+        "easy_word": "高位(かっこ位階,低位)"
+    },
+    {
+        "difficult_word": "世紀",
+        "easy_word": "世紀(かっこ四半世紀,初頭)"
+    },
+    {
+        "difficult_word": "性器",
+        "easy_word": "性器(かっこ陰部)"
+    },
+    {
+        "difficult_word": "旌旗",
+        "easy_word": "旌旗(かっこ倶利伽羅,翩翻)"
+    },
+    {
+        "difficult_word": "正気",
+        "easy_word": "正気(かっこ狂気,平静)"
+    },
+    {
+        "difficult_word": "正規",
+        "easy_word": "正規(かっこ非正規,国内)"
+    },
+    {
+        "difficult_word": "清規",
+        "easy_word": "清規(かっこ鎮西派,行持)"
+    },
+    {
+        "difficult_word": "生気",
+        "easy_word": "生気(かっこ生命力,気力)"
+    },
+    {
+        "difficult_word": "生起",
+        "easy_word": "生起(かっこ遭遇,措定)"
+    },
+    {
+        "difficult_word": "盛期",
+        "easy_word": "盛期(かっこビザンティン,最盛)"
+    },
+    {
+        "difficult_word": "精機",
+        "easy_word": "精機(かっこ製作所,興産)"
+    },
+    {
+        "difficult_word": "精気",
+        "easy_word": "精気(かっこ血肉,霊力)"
+    },
+    {
+        "difficult_word": "西紀",
+        "easy_word": "西紀(かっこ三ヶ日,談合坂)"
+    },
+    {
+        "difficult_word": "凍死",
+        "easy_word": "凍死(かっこ餓死)"
+    },
+    {
+        "difficult_word": "唐詩",
+        "easy_word": "唐詩(かっこ道徳経,李白)"
+    },
+    {
+        "difficult_word": "当市",
+        "easy_word": "当市(かっこ北部地区,各市)"
+    },
+    {
+        "difficult_word": "投資",
+        "easy_word": "投資(かっこ設備投資,信託)"
+    },
+    {
+        "difficult_word": "闘士",
+        "easy_word": "闘士(かっこ戦士,グラディエータービギンズ)"
+    },
+    {
+        "difficult_word": "公正",
+        "easy_word": "公正(かっこ適法,公明正大)"
+    },
+    {
+        "difficult_word": "厚生",
+        "easy_word": "厚生(かっこ保健,福利)"
+    },
+    {
+        "difficult_word": "厚情",
+        "easy_word": "厚情(かっこ米寿,倍旧)"
+    },
+    {
+        "difficult_word": "向性",
+        "easy_word": "向性(かっこ大脳皮質,嗅内)"
+    },
+    {
+        "difficult_word": "広西",
+        "easy_word": "広西(かっこ四川,陝西)"
+    },
+    {
+        "difficult_word": "後世",
+        "easy_word": "後世(かっこ口伝,伝えん)"
+    },
+    {
+        "difficult_word": "後生",
+        "easy_word": "後生(かっこ釈尊,後世)"
+    },
+    {
+        "difficult_word": "恒星",
+        "easy_word": "恒星(かっこ天体,銀河系)"
+    },
+    {
+        "difficult_word": "攻勢",
+        "easy_word": "攻勢(かっこ反攻,反撃)"
+    },
+    {
+        "difficult_word": "更正",
+        "easy_word": "更正(かっこ取消し,少年院)"
+    },
+    {
+        "difficult_word": "更生",
+        "easy_word": "更生(かっこ社会復帰,少年院)"
+    },
+    {
+        "difficult_word": "校正",
+        "easy_word": "校正(かっこ清書,校閲)"
+    },
+    {
+        "difficult_word": "構成",
+        "easy_word": "構成(かっこ分類,組み合わさ)"
+    },
+    {
+        "difficult_word": "江西",
+        "easy_word": "江西(かっこ山東,陝西)"
+    },
+    {
+        "difficult_word": "硬性",
+        "easy_word": "硬性(かっこ溶かす,下疳)"
+    },
+    {
+        "difficult_word": "以降",
+        "easy_word": "以降(かっこ以後)"
+    },
+    {
+        "difficult_word": "意向",
+        "easy_word": "意向(かっこ方針,意思)"
+    },
+    {
+        "difficult_word": "遺稿",
+        "easy_word": "遺稿(かっこ草稿,手記)"
+    },
+    {
+        "difficult_word": "移行",
+        "easy_word": "移行(かっこリプレース,切り替わっ)"
+    },
+    {
+        "difficult_word": "一向",
+        "easy_word": "一向(かっこ宗徒,門徒宗)"
+    },
+    {
+        "difficult_word": "移項",
+        "easy_word": "移項(かっこ代入)"
+    },
+    {
+        "difficult_word": "偉功",
+        "easy_word": "偉功(かっこ武勲,千綿)"
+    },
+    {
+        "difficult_word": "遺構",
+        "easy_word": "遺構(かっこ址,痕跡)"
+    },
+    {
+        "difficult_word": "口演",
+        "easy_word": "口演(かっこ音曲,寄席)"
+    },
+    {
+        "difficult_word": "公演",
+        "easy_word": "公演(かっこ全国ツアー,演目)"
+    },
+    {
+        "difficult_word": "好演",
+        "easy_word": "好演(かっこ演ずる,役どころ)"
+    },
+    {
+        "difficult_word": "講演",
+        "easy_word": "講演(かっこ講演会,シンポジウム)"
+    },
+    {
+        "difficult_word": "後援",
+        "easy_word": "後援(かっこ協力,主催)"
+    },
+    {
+        "difficult_word": "高遠",
+        "easy_word": "高遠(かっこ小諸,伊那)"
+    },
+    {
+        "difficult_word": "公園",
+        "easy_word": "公園(かっこビジターセンター,緑地)"
+    },
+    {
+        "difficult_word": "奇声",
+        "easy_word": "奇声(かっこ叫び声)"
+    },
+    {
+        "difficult_word": "寄生",
+        "easy_word": "寄生(かっこ吸血,パラサイト)"
+    },
+    {
+        "difficult_word": "希世",
+        "easy_word": "希世(かっこ長明,国康)"
+    },
+    {
+        "difficult_word": "帰省",
+        "easy_word": "帰省(かっこ引越し,遠出)"
+    },
+    {
+        "difficult_word": "期成",
+        "easy_word": "期成(かっこ懇話会,同盟)"
+    },
+    {
+        "difficult_word": "棋聖",
+        "easy_word": "棋聖(かっこ棋王,碁聖)"
+    },
+    {
+        "difficult_word": "気勢",
+        "easy_word": "気勢(かっこ雄たけび,怪気炎)"
+    },
+    {
+        "difficult_word": "祈誓",
+        "easy_word": "祈誓(かっこ回向,納受)"
+    },
+    {
+        "difficult_word": "規制",
+        "easy_word": "規制(かっこ法規制,取り締まり)"
+    },
+    {
+        "difficult_word": "規正",
+        "easy_word": "規正(かっこ計算手,献金)"
+    },
+    {
+        "difficult_word": "刊行",
+        "easy_word": "刊行(かっこ出版,上梓)"
+    },
+    {
+        "difficult_word": "完工",
+        "easy_word": "完工(かっこ開通,しゅん工)"
+    },
+    {
+        "difficult_word": "官公",
+        "easy_word": "官公(かっこ各種学校,皖北)"
+    },
+    {
+        "difficult_word": "寛厚",
+        "easy_word": "寛厚(かっこ温良,資性)"
+    },
+    {
+        "difficult_word": "寛弘",
+        "easy_word": "寛弘(かっこ天平勝宝,応保)"
+    },
+    {
+        "difficult_word": "感光",
+        "easy_word": "感光(かっこ乳剤,フォトレジスト)"
+    },
+    {
+        "difficult_word": "慣行",
+        "easy_word": "慣行(かっこ慣習)"
+    },
+    {
+        "difficult_word": "敢行",
+        "easy_word": "敢行(かっこ実施,行い)"
+    },
+    {
+        "difficult_word": "桓公",
+        "easy_word": "桓公(かっこ順帝,献公)"
+    },
+    {
+        "difficult_word": "漢江",
+        "easy_word": "漢江(かっこ黄海,ハンガン)"
+    },
+    {
+        "difficult_word": "緩行",
+        "easy_word": "緩行(かっこ都営地下鉄,方南町支線)"
+    },
+    {
+        "difficult_word": "菅公",
+        "easy_word": "菅公(かっこ菅原道真,尾崎商事)"
+    },
+    {
+        "difficult_word": "観光",
+        "easy_word": "観光(かっこ観光施設,名所)"
+    },
+    {
+        "difficult_word": "還幸",
+        "easy_word": "還幸(かっこ渡御,遷幸)"
+    },
+    {
+        "difficult_word": "公館",
+        "easy_word": "公館(かっこ領事館)"
+    },
+    {
+        "difficult_word": "公刊",
+        "easy_word": "公刊(かっこ出版,邦訳)"
+    },
+    {
+        "difficult_word": "好漢",
+        "easy_word": "好漢(かっこ生まれ変わり,豪傑)"
+    },
+    {
+        "difficult_word": "好感",
+        "easy_word": "好感(かっこ親近感,アナルコルク)"
+    },
+    {
+        "difficult_word": "巷間",
+        "easy_word": "巷間(かっこ世間,実しやか)"
+    },
+    {
+        "difficult_word": "高官",
+        "easy_word": "高官(かっこ政府高官,政府)"
+    },
+    {
+        "difficult_word": "交歓",
+        "easy_word": "交歓(かっこ壮行,集い)"
+    },
+    {
+        "difficult_word": "交換",
+        "easy_word": "交換(かっこ受け渡し,取り替え)"
+    },
+    {
+        "difficult_word": "皇漢",
+        "easy_word": "皇漢(かっこ概論,吐鳳)"
+    },
+    {
+        "difficult_word": "校勘",
+        "easy_word": "校勘(かっこ校合,佚文)"
+    },
+    {
+        "difficult_word": "槓桿",
+        "easy_word": "槓桿(かっこ撃鉄,撃茎)"
+    },
+    {
+        "difficult_word": "鋼管",
+        "easy_word": "鋼管(かっこエヤーブレーキ,福山製鉄所)"
+    },
+    {
+        "difficult_word": "公事",
+        "easy_word": "公事(かっこ公儀,伝奏)"
+    },
+    {
+        "difficult_word": "公示",
+        "easy_word": "公示(かっこ閣議決定,開札)"
+    },
+    {
+        "difficult_word": "好事",
+        "easy_word": "好事(かっこ自動車評論,モノズキ)"
+    },
+    {
+        "difficult_word": "好字",
+        "easy_word": "好字(かっこさんずい,吏読)"
+    },
+    {
+        "difficult_word": "工事",
+        "easy_word": "工事(かっこ改修工事,修繕)"
+    },
+    {
+        "difficult_word": "康治",
+        "easy_word": "康治(かっこ嘉吉,俊明)"
+    },
+    {
+        "difficult_word": "後事",
+        "easy_word": "後事(かっこ亡父,托し)"
+    },
+    {
+        "difficult_word": "柑子",
+        "easy_word": "柑子(かっこ鰈,山吹)"
+    },
+    {
+        "difficult_word": "講師",
+        "easy_word": "講師(かっこ非常勤講師,教員)"
+    },
+    {
+        "difficult_word": "高次",
+        "easy_word": "高次(かっこ共役,佐柳)"
+    },
+    {
+        "difficult_word": "心性",
+        "easy_word": "心性(かっこ思惟,思想)"
+    },
+    {
+        "difficult_word": "新制",
+        "easy_word": "新制(かっこ官立)"
+    },
+    {
+        "difficult_word": "新政",
+        "easy_word": "新政(かっこ明治新政府,寫樂)"
+    },
+    {
+        "difficult_word": "新星",
+        "easy_word": "新星(かっこ史上最強,超新星)"
+    },
+    {
+        "difficult_word": "新正",
+        "easy_word": "新正(かっこ明神社,阿倉川)"
+    },
+    {
+        "difficult_word": "新生",
+        "easy_word": "新生(かっこ新体制,パワーダイレクト)"
+    },
+    {
+        "difficult_word": "申請",
+        "easy_word": "申請(かっこ出願,認可)"
+    },
+    {
+        "difficult_word": "真性",
+        "easy_word": "真性(かっこ優性,根っから)"
+    },
+    {
+        "difficult_word": "真正",
+        "easy_word": "真正(かっこ不可知,ラブリーデート)"
+    },
+    {
+        "difficult_word": "神性",
+        "easy_word": "神性(かっこ被造物,顕現)"
+    },
+    {
+        "difficult_word": "神政",
+        "easy_word": "神政(かっこ帰一,神権)"
+    },
+    {
+        "difficult_word": "神聖",
+        "easy_word": "神聖(かっこ邪悪,聖なる)"
+    },
+    {
+        "difficult_word": "親政",
+        "easy_word": "親政(かっこ院政,聴政)"
+    },
+    {
+        "difficult_word": "辰星",
+        "easy_word": "辰星(かっこ唯物,畢宿)"
+    },
+    {
+        "difficult_word": "医師",
+        "easy_word": "医師(かっこ外科医,開業医)"
+    },
+    {
+        "difficult_word": "意志",
+        "easy_word": "意志(かっこ信念)"
+    },
+    {
+        "difficult_word": "意思",
+        "easy_word": "意思(かっこ意向)"
+    },
+    {
+        "difficult_word": "移徙",
+        "easy_word": "移徙(かっこ後崇光院,わたまし)"
+    },
+    {
+        "difficult_word": "遺子",
+        "easy_word": "遺子(かっこ庶兄,嫡女)"
+    },
+    {
+        "difficult_word": "遺志",
+        "easy_word": "遺志(かっこ衣鉢,意向)"
+    },
+    {
+        "difficult_word": "交情",
+        "easy_word": "交情(かっこ愛し合い,媾合)"
+    },
+    {
+        "difficult_word": "厚情",
+        "easy_word": "厚情(かっこ米寿,倍旧)"
+    },
+    {
+        "difficult_word": "口上",
+        "easy_word": "口上(かっこ掛け声,前口上)"
+    },
+    {
+        "difficult_word": "向上",
+        "easy_word": "向上(かっこ低下)"
+    },
+    {
+        "difficult_word": "工場",
+        "easy_word": "工場(かっこ製鉄所,工員)"
+    },
+    {
+        "difficult_word": "恒常",
+        "easy_word": "恒常(かっこ半永久,断続)"
+    },
+    {
+        "difficult_word": "江上",
+        "easy_word": "江上(かっこ富永,木村)"
+    },
+    {
+        "difficult_word": "甲状",
+        "easy_word": "甲状(かっこ手関節,頸長)"
+    },
+    {
+        "difficult_word": "鉤状",
+        "easy_word": "鉤状(かっこ吻部,カギヅメ)"
+    },
+    {
+        "difficult_word": "元始",
+        "easy_word": "元始(かっこかぐや,太初)"
+    },
+    {
+        "difficult_word": "元子",
+        "easy_word": "元子(かっこ信子,布美子)"
+    },
+    {
+        "difficult_word": "原始",
+        "easy_word": "原始(かっこ原始的,原始時代)"
+    },
+    {
+        "difficult_word": "原子",
+        "easy_word": "原子(かっこ原子核)"
+    },
+    {
+        "difficult_word": "原紙",
+        "easy_word": "原紙(かっこ紙や,板紙)"
+    },
+    {
+        "difficult_word": "原資",
+        "easy_word": "原資(かっこ準備金,巨額)"
+    },
+    {
+        "difficult_word": "減資",
+        "easy_word": "減資(かっこ増資)"
+    },
+    {
+        "difficult_word": "交会",
+        "easy_word": "交会(かっこ嶠,交成)"
+    },
+    {
+        "difficult_word": "公会",
+        "easy_word": "公会(かっこ協,教会)"
+    },
+    {
+        "difficult_word": "公海",
+        "easy_word": "公海(かっこ国際法,領海)"
+    },
+    {
+        "difficult_word": "公開",
+        "easy_word": "公開(かっこ上映,公表)"
+    },
+    {
+        "difficult_word": "叩解",
+        "easy_word": "叩解(かっこプリフォーム,抄い)"
+    },
+    {
+        "difficult_word": "後会",
+        "easy_word": "後会(かっこ審議,請暇)"
+    },
+    {
+        "difficult_word": "後悔",
+        "easy_word": "後悔(かっこ落胆,悔やむ)"
+    },
+    {
+        "difficult_word": "更改",
+        "easy_word": "更改(かっこ年俸)"
+    },
+    {
+        "difficult_word": "紅海",
+        "easy_word": "紅海(かっこアラビア海,地中海)"
+    },
+    {
+        "difficult_word": "航海",
+        "easy_word": "航海(かっこ探検,操船)"
+    },
+    {
+        "difficult_word": "降灰",
+        "easy_word": "降灰(かっこ大津波,火山灰)"
+    },
+    {
+        "difficult_word": "黄海",
+        "easy_word": "黄海(かっこオホーツク海,咸鏡)"
+    },
+    {
+        "difficult_word": "陥穽",
+        "easy_word": "陥穽(かっこ恨,落し穴)"
+    },
+    {
+        "difficult_word": "乾性",
+        "easy_word": "乾性(かっこ湿性,吸汗)"
+    },
+    {
+        "difficult_word": "喚声",
+        "easy_word": "喚声(かっこ雄たけび,勝ち鬨)"
+    },
+    {
+        "difficult_word": "歓声",
+        "easy_word": "歓声(かっこ拍手,どよめき)"
+    },
+    {
+        "difficult_word": "感性",
+        "easy_word": "感性(かっこ想像力,感受性)"
+    },
+    {
+        "difficult_word": "慣性",
+        "easy_word": "慣性(かっこ重力)"
+    },
+    {
+        "difficult_word": "完成",
+        "easy_word": "完成(かっこ開通,出来上がり)"
+    },
+    {
+        "difficult_word": "管制",
+        "easy_word": "管制(かっこ航法,航空)"
+    },
+    {
+        "difficult_word": "閑静",
+        "easy_word": "閑静(かっこのどか,至便)"
+    },
+    {
+        "difficult_word": "喊声",
+        "easy_word": "喊声(かっこ雄叫び,鬨の声)"
+    },
+    {
+        "difficult_word": "寛政",
+        "easy_word": "寛政(かっこ宝暦,文政)"
+    },
+    {
+        "difficult_word": "交渉",
+        "easy_word": "交渉(かっこ折衝)"
+    },
+    {
+        "difficult_word": "厚相",
+        "easy_word": "厚相(かっこ選挙対策委員長,延亨黙)"
+    },
+    {
+        "difficult_word": "公傷",
+        "easy_word": "公傷(かっこ蒼国来,忌引)"
+    },
+    {
+        "difficult_word": "公娼",
+        "easy_word": "公娼(かっこ都市計画法,売買春)"
+    },
+    {
+        "difficult_word": "公証",
+        "easy_word": "公証(かっこ証する,法務局)"
+    },
+    {
+        "difficult_word": "咬傷",
+        "easy_word": "咬傷(かっこ食中毒,咬症)"
+    },
+    {
+        "difficult_word": "口承",
+        "easy_word": "口承(かっこ口頭伝承,伝承)"
+    },
+    {
+        "difficult_word": "哄笑",
+        "easy_word": "哄笑(かっこ天邪鬼,高笑い)"
+    },
+    {
+        "difficult_word": "好尚",
+        "easy_word": "好尚(かっこ道興,脱俗)"
+    },
+    {
+        "difficult_word": "工匠",
+        "easy_word": "工匠(かっこ石工)"
+    },
+    {
+        "difficult_word": "工廠",
+        "easy_word": "工廠(かっこ造船所,造船)"
+    },
+    {
+        "difficult_word": "康正",
+        "easy_word": "康正(かっこ嘉吉,清嗣)"
+    },
+    {
+        "difficult_word": "校章",
+        "easy_word": "校章(かっこシンボルマーク)"
+    },
+    {
+        "difficult_word": "考証",
+        "easy_word": "考証(かっこ時代考証,脚色)"
+    },
+    {
+        "difficult_word": "行賞",
+        "easy_word": "行賞(かっこ恩賞,論功)"
+    },
+    {
+        "difficult_word": "高尚",
+        "easy_word": "高尚(かっこ深遠,崇高)"
+    },
+    {
+        "difficult_word": "高唱",
+        "easy_word": "高唱(かっこ鼓吹,呼号)"
+    },
+    {
+        "difficult_word": "危機",
+        "easy_word": "危機(かっこ苦境,窮地)"
+    },
+    {
+        "difficult_word": "忌諱",
+        "easy_word": "忌諱(かっこ神の怒り,卑しめ)"
+    },
+    {
+        "difficult_word": "機器",
+        "easy_word": "機器(かっこ設備)"
+    },
+    {
+        "difficult_word": "器機",
+        "easy_word": "器機(かっこ精密機器,器材)"
+    },
+    {
+        "difficult_word": "毀棄",
+        "easy_word": "毀棄(かっこ誹,蔵匿)"
+    },
+    {
+        "difficult_word": "鬼気",
+        "easy_word": "鬼気(かっこ夕闇,凄味)"
+    },
+    {
+        "difficult_word": "信仰",
+        "easy_word": "信仰(かっこ崇拝)"
+    },
+    {
+        "difficult_word": "侵攻",
+        "easy_word": "侵攻(かっこ反攻)"
+    },
+    {
+        "difficult_word": "侵寇",
+        "easy_word": "侵寇(かっこエジ,来寇)"
+    },
+    {
+        "difficult_word": "神幸",
+        "easy_word": "神幸(かっこ渡御)"
+    },
+    {
+        "difficult_word": "振興",
+        "easy_word": "振興(かっこ経済振興,推進)"
+    },
+    {
+        "difficult_word": "深更",
+        "easy_word": "深更(かっこゅうろくにち,初更)"
+    },
+    {
+        "difficult_word": "深紅",
+        "easy_word": "深紅(かっこ藍色,紅い)"
+    },
+    {
+        "difficult_word": "進行",
+        "easy_word": "進行(かっこ切迫,進める)"
+    },
+    {
+        "difficult_word": "進攻",
+        "easy_word": "進攻(かっこ反攻)"
+    },
+    {
+        "difficult_word": "進貢",
+        "easy_word": "進貢(かっこ来朝,来貢)"
+    },
+    {
+        "difficult_word": "進講",
+        "easy_word": "進講(かっこ拝礼,不例)"
+    },
+    {
+        "difficult_word": "新香",
+        "easy_word": "新香(かっこ変イ,お新香)"
+    },
+    {
+        "difficult_word": "新興",
+        "easy_word": "新興(かっこ富裕層,宗教)"
+    },
+    {
+        "difficult_word": "親交",
+        "easy_word": "親交(かっこ交遊,面識)"
+    },
+    {
+        "difficult_word": "親好",
+        "easy_word": "親好(かっこ姻戚関係,近しき)"
+    },
+    {
+        "difficult_word": "勢家",
+        "easy_word": "勢家(かっこ清和源氏,小池原)"
+    },
+    {
+        "difficult_word": "声価",
+        "easy_word": "声価(かっこ国際的評価,盛名)"
+    },
+    {
+        "difficult_word": "成果",
+        "easy_word": "成果(かっこ課題,取り組み)"
+    },
+    {
+        "difficult_word": "正価",
+        "easy_word": "正価(かっこ適正価格,値段)"
+    },
+    {
+        "difficult_word": "正課",
+        "easy_word": "正課(かっこ社会科,併習)"
+    },
+    {
+        "difficult_word": "正貨",
+        "easy_word": "正貨(かっこ国債,不換紙幣)"
+    },
+    {
+        "difficult_word": "生家",
+        "easy_word": "生家(かっこ造り酒屋,曾祖父)"
+    },
+    {
+        "difficult_word": "生花",
+        "easy_word": "生花(かっこ染物,プリザーブドフラワー)"
+    },
+    {
+        "difficult_word": "盛夏",
+        "easy_word": "盛夏(かっこ晩春,初秋)"
+    },
+    {
+        "difficult_word": "精華",
+        "easy_word": "精華(かっこ修身,下狛)"
+    },
+    {
+        "difficult_word": "聖歌",
+        "easy_word": "聖歌(かっこ賛美歌,合唱)"
+    },
+    {
+        "difficult_word": "聖火",
+        "easy_word": "聖火(かっこ炬火)"
+    },
+    {
+        "difficult_word": "製菓",
+        "easy_word": "製菓(かっこ洋菓子)"
+    },
+    {
+        "difficult_word": "製靴",
+        "easy_word": "製靴(かっこ精糖,ビスポークシューズ)"
+    },
+    {
+        "difficult_word": "請暇",
+        "easy_word": "請暇(かっこおりる,附議)"
+    },
+    {
+        "difficult_word": "青果",
+        "easy_word": "青果(かっこ精肉,鮮魚)"
+    },
+    {
+        "difficult_word": "機構",
+        "easy_word": "機構(かっこシステム,メカニズム)"
+    },
+    {
+        "difficult_word": "機甲",
+        "easy_word": "機甲(かっこコマンドー,警騎)"
+    },
+    {
+        "difficult_word": "季候",
+        "easy_word": "季候(かっこ水はけ,気候)"
+    },
+    {
+        "difficult_word": "気候",
+        "easy_word": "気候(かっこ温暖,季候)"
+    },
+    {
+        "difficult_word": "気孔",
+        "easy_word": "気孔(かっこすき間,気功)"
+    },
+    {
+        "difficult_word": "気功",
+        "easy_word": "気功(かっこ鄧洪,氣功)"
+    },
+    {
+        "difficult_word": "奇行",
+        "easy_word": "奇行(かっこ言動)"
+    },
+    {
+        "difficult_word": "起稿",
+        "easy_word": "起稿(かっこ公刊,ゅうこっちゃ)"
+    },
+    {
+        "difficult_word": "紀行",
+        "easy_word": "紀行(かっこ見聞録,探訪)"
+    },
+    {
+        "difficult_word": "貴公",
+        "easy_word": "貴公(かっこそなた,貴君)"
+    },
+    {
+        "difficult_word": "貴行",
+        "easy_word": "貴行(かっこ隆男,俊行)"
+    },
+    {
+        "difficult_word": "帰港",
+        "easy_word": "帰港(かっこ帰投,出航)"
+    },
+    {
+        "difficult_word": "帰航",
+        "easy_word": "帰航(かっこ入港,帰港)"
+    },
+    {
+        "difficult_word": "寄港",
+        "easy_word": "寄港(かっこ入港)"
+    },
+    {
+        "difficult_word": "寄稿",
+        "easy_word": "寄稿(かっこ執筆)"
+    },
+    {
+        "difficult_word": "伺候",
+        "easy_word": "伺候(かっこ近侍,列座)"
+    },
+    {
+        "difficult_word": "嗜好",
+        "easy_word": "嗜好(かっこ価値観,趣向)"
+    },
+    {
+        "difficult_word": "志向",
+        "easy_word": "志向(かっこ標榜,傾向)"
+    },
+    {
+        "difficult_word": "思考",
+        "easy_word": "思考(かっこ想像力,回路)"
+    },
+    {
+        "difficult_word": "指向",
+        "easy_word": "指向(かっこ追求,関心)"
+    },
+    {
+        "difficult_word": "施工",
+        "easy_word": "施工(かっこ修繕工事,リフォーム)"
+    },
+    {
+        "difficult_word": "施行",
+        "easy_word": "施行(かっこ制定)"
+    },
+    {
+        "difficult_word": "紙工",
+        "easy_word": "紙工(かっこ岩間,大村印刷)"
+    },
+    {
+        "difficult_word": "至孝",
+        "easy_word": "至孝(かっこ太皇太后,専精)"
+    },
+    {
+        "difficult_word": "至高",
+        "easy_word": "至高(かっこ不死,究極)"
+    },
+    {
+        "difficult_word": "試航",
+        "easy_word": "試航(かっこダイアデム,避泊)"
+    },
+    {
+        "difficult_word": "試行",
+        "easy_word": "試行(かっこ試行錯誤)"
+    },
+    {
+        "difficult_word": "甲信",
+        "easy_word": "甲信(かっこ奥羽,北陸)"
+    },
+    {
+        "difficult_word": "交信",
+        "easy_word": "交信(かっこ傍受,ＱＳＯ)"
+    },
+    {
+        "difficult_word": "口唇",
+        "easy_word": "口唇(かっこ頚部,ヘルペス)"
+    },
+    {
+        "difficult_word": "孝心",
+        "easy_word": "孝心(かっこへりくだり,君恩)"
+    },
+    {
+        "difficult_word": "庚申",
+        "easy_word": "庚申(かっこ甲子,換局)"
+    },
+    {
+        "difficult_word": "後身",
+        "easy_word": "後身(かっこ前身)"
+    },
+    {
+        "difficult_word": "後進",
+        "easy_word": "後進(かっこ人材育成,前進)"
+    },
+    {
+        "difficult_word": "更新",
+        "easy_word": "更新(かっこリニューアル,ブログアップ)"
+    },
+    {
+        "difficult_word": "行進",
+        "easy_word": "行進(かっこパレード)"
+    },
+    {
+        "difficult_word": "高進",
+        "easy_word": "高進(かっこ独孤,昂進)"
+    },
+    {
+        "difficult_word": "亢進",
+        "easy_word": "亢進(かっこ増悪,昂進)"
+    },
+    {
+        "difficult_word": "昂進",
+        "easy_word": "昂進(かっこ増長,かりたてる)"
+    },
+    {
+        "difficult_word": "加工",
+        "easy_word": "加工(かっこ切削)"
+    },
+    {
+        "difficult_word": "河口",
+        "easy_word": "河口(かっこ北岸)"
+    },
+    {
+        "difficult_word": "下降",
+        "easy_word": "下降(かっこ急降下,降下)"
+    },
+    {
+        "difficult_word": "河港",
+        "easy_word": "河港(かっこ外港,商港)"
+    },
+    {
+        "difficult_word": "火口",
+        "easy_word": "火口(かっこカルデラ,火口湖)"
+    },
+    {
+        "difficult_word": "花梗",
+        "easy_word": "花梗(かっこ志生木,圧毛)"
+    },
+    {
+        "difficult_word": "下肢",
+        "easy_word": "下肢(かっこ上肢)"
+    },
+    {
+        "difficult_word": "下賜",
+        "easy_word": "下賜(かっこ献納,拝領)"
+    },
+    {
+        "difficult_word": "仮死",
+        "easy_word": "仮死(かっこ昏睡,蘇生)"
+    },
+    {
+        "difficult_word": "可視",
+        "easy_word": "可視(かっこ局在,不可視)"
+    },
+    {
+        "difficult_word": "歌詞",
+        "easy_word": "歌詞(かっこ曲名)"
+    },
+    {
+        "difficult_word": "歌誌",
+        "easy_word": "歌誌(かっこ俳誌)"
+    },
+    {
+        "difficult_word": "瑕疵",
+        "easy_word": "瑕疵(かっこ違法性,欠陥)"
+    },
+    {
+        "difficult_word": "菓子",
+        "easy_word": "菓子(かっこ焼き菓子,お菓子)"
+    },
+    {
+        "difficult_word": "華氏",
+        "easy_word": "華氏(かっこ摂氏)"
+    },
+    {
+        "difficult_word": "冠詞",
+        "easy_word": "冠詞(かっこ前置詞)"
+    },
+    {
+        "difficult_word": "幹枝",
+        "easy_word": "幹枝(かっこ丑之助,定蔵)"
+    },
+    {
+        "difficult_word": "漢詩",
+        "easy_word": "漢詩(かっこ俳諧,儒学)"
+    },
+    {
+        "difficult_word": "監視",
+        "easy_word": "監視(かっこ常時監視,パトロール)"
+    },
+    {
+        "difficult_word": "諫止",
+        "easy_word": "諫止(かっこ降参,陳弁)"
+    },
+    {
+        "difficult_word": "諫死",
+        "easy_word": "諫死(かっこ出家遁世,陳弁)"
+    },
+    {
+        "difficult_word": "有司",
+        "easy_word": "有司(かっこ儒,謹吾)"
+    },
+    {
+        "difficult_word": "有史",
+        "easy_word": "有史(かっこ明治維新,近世)"
+    },
+    {
+        "difficult_word": "有志",
+        "easy_word": "有志(かっこ市民グループ,集い)"
+    },
+    {
+        "difficult_word": "有刺",
+        "easy_word": "有刺(かっこ混交林,ヅタ)"
+    },
+    {
+        "difficult_word": "勇士",
+        "easy_word": "勇士(かっこ豪傑)"
+    },
+    {
+        "difficult_word": "勇姿",
+        "easy_word": "勇姿(かっこ後ろ姿)"
+    },
+    {
+        "difficult_word": "猶子",
+        "easy_word": "猶子(かっこ外祖父,輔平)"
+    },
+    {
+        "difficult_word": "遊子",
+        "easy_word": "遊子(かっこ廼舎,夏梨)"
+    },
+    {
+        "difficult_word": "雄志",
+        "easy_word": "雄志(かっこあさじ,俊男)"
+    },
+    {
+        "difficult_word": "雄姿",
+        "easy_word": "雄姿(かっこ眼前,凛々しい)"
+    },
+    {
+        "difficult_word": "融資",
+        "easy_word": "融資(かっこ借入)"
+    },
+    {
+        "difficult_word": "口答",
+        "easy_word": "口答(かっこ口述試験,口頭)"
+    },
+    {
+        "difficult_word": "口頭",
+        "easy_word": "口頭(かっこ書面,口答)"
+    },
+    {
+        "difficult_word": "高等",
+        "easy_word": "高等(かっこ職業訓練校,学校)"
+    },
+    {
+        "difficult_word": "高騰",
+        "easy_word": "高騰(かっこ急騰,値上がり)"
+    },
+    {
+        "difficult_word": "昂騰",
+        "easy_word": "昂騰(かっこ騰貴)"
+    },
+    {
+        "difficult_word": "高踏",
+        "easy_word": "高踏(かっこ形而上,脱俗)"
+    },
+    {
+        "difficult_word": "喉頭",
+        "easy_word": "喉頭(かっこ髄膜,咽頭)"
+    },
+    {
+        "difficult_word": "叩頭",
+        "easy_word": "叩頭(かっこ鞭打っ,跪九)"
+    },
+    {
+        "difficult_word": "公道",
+        "easy_word": "公道(かっこサーキット,車道)"
+    },
+    {
+        "difficult_word": "勾当",
+        "easy_word": "勾当(かっこ道行,北四番丁)"
+    },
+    {
+        "difficult_word": "好投",
+        "easy_word": "好投(かっこ力投)"
+    },
+    {
+        "difficult_word": "江東",
+        "easy_word": "江東(かっこ台東,墨田)"
+    },
+    {
+        "difficult_word": "乾燥",
+        "easy_word": "乾燥(かっこ固化,カッサカサ)"
+    },
+    {
+        "difficult_word": "完走",
+        "easy_word": "完走(かっこ総合優勝,フルマラソン)"
+    },
+    {
+        "difficult_word": "感想",
+        "easy_word": "感想(かっこ体験談,率直)"
+    },
+    {
+        "difficult_word": "換装",
+        "easy_word": "換装(かっこ装備,増設)"
+    },
+    {
+        "difficult_word": "歓送",
+        "easy_word": "歓送(かっこ壮行,宴会)"
+    },
+    {
+        "difficult_word": "観想",
+        "easy_word": "観想(かっこ瞑想)"
+    },
+    {
+        "difficult_word": "観相",
+        "easy_word": "観相(かっこ道学,易学)"
+    },
+    {
+        "difficult_word": "諫奏",
+        "easy_word": "諫奏(かっこ猷院,討薩)"
+    },
+    {
+        "difficult_word": "還送",
+        "easy_word": "還送(かっこ陸揚げ,区処)"
+    },
+    {
+        "difficult_word": "間奏",
+        "easy_word": "間奏(かっこ前奏,アウトロ)"
+    },
+    {
+        "difficult_word": "光子",
+        "easy_word": "光子(かっこ陽子)"
+    },
+    {
+        "difficult_word": "公使",
+        "easy_word": "公使(かっこ領事)"
+    },
+    {
+        "difficult_word": "公司",
+        "easy_word": "公司(かっこ控股,匯金)"
+    },
+    {
+        "difficult_word": "公子",
+        "easy_word": "公子(かっこ選帝侯,圭子)"
+    },
+    {
+        "difficult_word": "公私",
+        "easy_word": "公私(かっこ投打,昼夜)"
+    },
+    {
+        "difficult_word": "厚志",
+        "easy_word": "厚志(かっこ裕史,祐史)"
+    },
+    {
+        "difficult_word": "合志",
+        "easy_word": "合志(かっこ鎮雄,菊陽)"
+    },
+    {
+        "difficult_word": "嚆矢",
+        "easy_word": "嚆矢(かっこはしり,先鞭)"
+    },
+    {
+        "difficult_word": "孝子",
+        "easy_word": "孝子(かっこ清子,恵美子)"
+    },
+    {
+        "difficult_word": "孝志",
+        "easy_word": "孝志(かっこ信一,恒夫)"
+    },
+    {
+        "difficult_word": "後嗣",
+        "easy_word": "後嗣(かっこ嗣子)"
+    },
+    {
+        "difficult_word": "後翅",
+        "easy_word": "後翅(かっこ前翅)"
+    },
+    {
+        "difficult_word": "後肢",
+        "easy_word": "後肢(かっこ前肢)"
+    },
+    {
+        "difficult_word": "更始",
+        "easy_word": "更始(かっこ鎮北,樊崇)"
+    },
+    {
+        "difficult_word": "格子",
+        "easy_word": "格子(かっこ立方体,ブラベー)"
+    },
+    {
+        "difficult_word": "甲子",
+        "easy_word": "甲子(かっこ庚申,那須)"
+    },
+    {
+        "difficult_word": "皇嗣",
+        "easy_word": "皇嗣(かっこ新帝,皇孫)"
+    },
+    {
+        "difficult_word": "紅紫",
+        "easy_word": "紅紫(かっこ黄白,鮮黄)"
+    },
+    {
+        "difficult_word": "考試",
+        "easy_word": "考試(かっこ高等試験,招生)"
+    },
+    {
+        "difficult_word": "行使",
+        "easy_word": "行使(かっこ保障,掌握)"
+    },
+    {
+        "difficult_word": "講師",
+        "easy_word": "講師(かっこ非常勤講師,教員)"
+    },
+    {
+        "difficult_word": "高士",
+        "easy_word": "高士(かっこ嘉,脩造)"
+    },
+    {
+        "difficult_word": "高師",
+        "easy_word": "高師(かっこ一高,町畑)"
+    },
+    {
+        "difficult_word": "高志",
+        "easy_word": "高志(かっこ神野,亮介)"
+    },
+    {
+        "difficult_word": "交機",
+        "easy_word": "交機(かっこハイパーレスキュー,白バイ)"
+    },
+    {
+        "difficult_word": "光輝",
+        "easy_word": "光輝(かっこ久遠,彰利)"
+    },
+    {
+        "difficult_word": "口器",
+        "easy_word": "口器(かっこ吸盤,毒腺)"
+    },
+    {
+        "difficult_word": "好奇",
+        "easy_word": "好奇(かっこくらむ,探究)"
+    },
+    {
+        "difficult_word": "好機",
+        "easy_word": "好機(かっこ形勢不利,チャンス)"
+    },
+    {
+        "difficult_word": "工期",
+        "easy_word": "工期(かっこ耐用年数,元請け)"
+    },
+    {
+        "difficult_word": "広軌",
+        "easy_word": "広軌(かっこ標準軌)"
+    },
+    {
+        "difficult_word": "弘毅",
+        "easy_word": "弘毅(かっこ博史,英樹)"
+    },
+    {
+        "difficult_word": "後期",
+        "easy_word": "後期(かっこ前期)"
+    },
+    {
+        "difficult_word": "後記",
+        "easy_word": "後記(かっこまえがき,あとがき)"
+    },
+    {
+        "difficult_word": "校旗",
+        "easy_word": "校旗(かっこブレザー,優勝旗)"
+    },
+    {
+        "difficult_word": "綱紀",
+        "easy_word": "綱紀(かっこ風紀,利常)"
+    },
+    {
+        "difficult_word": "降旗",
+        "easy_word": "降旗(かっこ岡田,宮田)"
+    },
+    {
+        "difficult_word": "香気",
+        "easy_word": "香気(かっこ辛味,香り)"
+    },
+    {
+        "difficult_word": "高貴",
+        "easy_word": "高貴(かっこ善良,気品)"
+    },
+    {
+        "difficult_word": "構想",
+        "easy_word": "構想(かっこ計画)"
+    },
+    {
+        "difficult_word": "抗争",
+        "easy_word": "抗争(かっこ仲間割れ,対立)"
+    },
+    {
+        "difficult_word": "高層",
+        "easy_word": "高層(かっこ超高層,低層)"
+    },
+    {
+        "difficult_word": "高僧",
+        "easy_word": "高僧(かっこ学僧,僧)"
+    },
+    {
+        "difficult_word": "高燥",
+        "easy_word": "高燥(かっこ険阻,肥よく)"
+    },
+    {
+        "difficult_word": "降霜",
+        "easy_word": "降霜(かっこ曇天,寒害)"
+    },
+    {
+        "difficult_word": "皇宗",
+        "easy_word": "皇宗(かっこ万世一系,聖業)"
+    },
+    {
+        "difficult_word": "後送",
+        "easy_word": "後送(かっこ送還,別送)"
+    },
+    {
+        "difficult_word": "公葬",
+        "easy_word": "公葬(かっこ密葬,儒式)"
+    },
+    {
+        "difficult_word": "広壮",
+        "easy_word": "広壮(かっこ豪壮)"
+    },
+    {
+        "difficult_word": "宏壮",
+        "easy_word": "宏壮(かっこ豪壮)"
+    },
+    {
+        "difficult_word": "大公",
+        "easy_word": "大公(かっこ公爵,公国)"
+    },
+    {
+        "difficult_word": "大功",
+        "easy_word": "大功(かっこ功名,軍功)"
+    },
+    {
+        "difficult_word": "大江",
+        "easy_word": "大江(かっこ松浦,角田)"
+    },
+    {
+        "difficult_word": "大綱",
+        "easy_word": "大綱(かっこ綱領)"
+    },
+    {
+        "difficult_word": "太閤",
+        "easy_word": "太閤(かっこ相州,秀吉)"
+    },
+    {
+        "difficult_word": "対向",
+        "easy_word": "対向(かっこ駆動輪,すれ違う)"
+    },
+    {
+        "difficult_word": "対抗",
+        "easy_word": "対抗(かっこ牽制,迎え撃つ)"
+    },
+    {
+        "difficult_word": "対校",
+        "easy_word": "対校(かっこ東西対抗,インカレ)"
+    },
+    {
+        "difficult_word": "退行",
+        "easy_word": "退行(かっこ不可逆,回帰)"
+    },
+    {
+        "difficult_word": "参政",
+        "easy_word": "参政(かっこ参議,永住)"
+    },
+    {
+        "difficult_word": "賛成",
+        "easy_word": "賛成(かっこ不信任,賛同)"
+    },
+    {
+        "difficult_word": "三世",
+        "easy_word": "三世(かっこ四世,俗諦)"
+    },
+    {
+        "difficult_word": "山西",
+        "easy_word": "山西(かっこ山東)"
+    },
+    {
+        "difficult_word": "先後",
+        "easy_word": "先後(かっこ優劣,受方)"
+    },
+    {
+        "difficult_word": "先攻",
+        "easy_word": "先攻(かっこデクレアラー,初手)"
+    },
+    {
+        "difficult_word": "先行",
+        "easy_word": "先行(かっこ前倒し,先んじ)"
+    },
+    {
+        "difficult_word": "専攻",
+        "easy_word": "専攻(かっこ学科)"
+    },
+    {
+        "difficult_word": "専行",
+        "easy_word": "専行(かっこなんにも,独断)"
+    },
+    {
+        "difficult_word": "戦功",
+        "easy_word": "戦功(かっこ軍功)"
+    },
+    {
+        "difficult_word": "浅黄",
+        "easy_word": "浅黄(かっこ頬紅,水浅葱)"
+    },
+    {
+        "difficult_word": "潜幸",
+        "easy_word": "潜幸(かっこ下向,遷幸)"
+    },
+    {
+        "difficult_word": "潜行",
+        "easy_word": "潜行(かっこ漂流,潜っ)"
+    },
+    {
+        "difficult_word": "穿孔",
+        "easy_word": "穿孔(かっこ切開,切削)"
+    },
+    {
+        "difficult_word": "線香",
+        "easy_word": "線香(かっこ茶碗,蚊取り線香)"
+    },
+    {
+        "difficult_word": "選鉱",
+        "easy_word": "選鉱(かっこ貯炭,貯鉱)"
+    },
+    {
+        "difficult_word": "選好",
+        "easy_word": "選好(かっこ価値判断,所与)"
+    },
+    {
+        "difficult_word": "遷幸",
+        "easy_word": "遷幸(かっこ詣で,潜幸)"
+    },
+    {
+        "difficult_word": "選考",
+        "easy_word": "選考(かっこ審査)"
+    },
+    {
+        "difficult_word": "閃光",
+        "easy_word": "閃光(かっこ火球,稲妻)"
+    },
+    {
+        "difficult_word": "鮮紅",
+        "easy_word": "鮮紅(かっこ青紫,鮮黄)"
+    },
+    {
+        "difficult_word": "公定",
+        "easy_word": "公定(かっこ対ドル,估価)"
+    },
+    {
+        "difficult_word": "公邸",
+        "easy_word": "公邸(かっこ官邸)"
+    },
+    {
+        "difficult_word": "孝悌",
+        "easy_word": "孝悌(かっこ人也,孝弟)"
+    },
+    {
+        "difficult_word": "工程",
+        "easy_word": "工程(かっこプロセス)"
+    },
+    {
+        "difficult_word": "校庭",
+        "easy_word": "校庭(かっこ運動場,校門)"
+    },
+    {
+        "difficult_word": "校訂",
+        "easy_word": "校訂(かっこ翻刻)"
+    },
+    {
+        "difficult_word": "皇帝",
+        "easy_word": "皇帝(かっこ君主)"
+    },
+    {
+        "difficult_word": "肯定",
+        "easy_word": "肯定(かっこ否定)"
+    },
+    {
+        "difficult_word": "行程",
+        "easy_word": "行程(かっこ道程)"
+    },
+    {
+        "difficult_word": "高低",
+        "easy_word": "高低(かっこ干満,起伏)"
+    },
+    {
+        "difficult_word": "高弟",
+        "easy_word": "高弟(かっこ門弟)"
+    },
+    {
+        "difficult_word": "浸染",
+        "easy_word": "浸染(かっこ手織り,染め分ける)"
+    },
+    {
+        "difficult_word": "新選",
+        "easy_word": "新選(かっこ新撰)"
+    },
+    {
+        "difficult_word": "新撰",
+        "easy_word": "新撰(かっこ類聚,新選)"
+    },
+    {
+        "difficult_word": "新鮮",
+        "easy_word": "新鮮(かっこまろやか,みずみずしい)"
+    },
+    {
+        "difficult_word": "神仙",
+        "easy_word": "神仙(かっこ十方,道教)"
+    },
+    {
+        "difficult_word": "神泉",
+        "easy_word": "神泉(かっこ一ノ俣,渋谷)"
+    },
+    {
+        "difficult_word": "神饌",
+        "easy_word": "神饌(かっこ饌,献饌)"
+    },
+    {
+        "difficult_word": "検証",
+        "easy_word": "検証(かっこ分析)"
+    },
+    {
+        "difficult_word": "懸賞",
+        "easy_word": "懸賞(かっこ懸賞論文,賞品)"
+    },
+    {
+        "difficult_word": "憲章",
+        "easy_word": "憲章(かっこ憲法,条約)"
+    },
+    {
+        "difficult_word": "肩章",
+        "easy_word": "肩章(かっこ制帽,エポーレット)"
+    },
+    {
+        "difficult_word": "見性",
+        "easy_word": "見性(かっこ嗣法,寶蔵)"
+    },
+    {
+        "difficult_word": "謙称",
+        "easy_word": "謙称(かっこ知道,寡人)"
+    },
+    {
+        "difficult_word": "顕彰",
+        "easy_word": "顕彰(かっこ慰霊,表彰)"
+    },
+    {
+        "difficult_word": "顕正",
+        "easy_word": "顕正(かっこ社友,創価学会)"
+    },
+    {
+        "difficult_word": "景観",
+        "easy_word": "景観(かっこ自然環境,植生)"
+    },
+    {
+        "difficult_word": "警官",
+        "easy_word": "警官(かっこ警察官)"
+    },
+    {
+        "difficult_word": "経巻",
+        "easy_word": "経巻(かっこ尊像,序品)"
+    },
+    {
+        "difficult_word": "荊冠",
+        "easy_word": "荊冠(かっこ十字架,翩翻)"
+    },
+    {
+        "difficult_word": "鶏冠",
+        "easy_word": "鶏冠(かっことさか,トサカ)"
+    },
+    {
+        "difficult_word": "鶏姦",
+        "easy_word": "鶏姦(かっこ故殺,肛内)"
+    },
+    {
+        "difficult_word": "起床",
+        "easy_word": "起床(かっこ就寝)"
+    },
+    {
+        "difficult_word": "奇勝",
+        "easy_word": "奇勝(かっこ奇岩,奇観)"
+    },
+    {
+        "difficult_word": "希少",
+        "easy_word": "希少(かっこ粗悪,珍しい)"
+    },
+    {
+        "difficult_word": "稀少",
+        "easy_word": "稀少(かっこ粗悪,珍しい)"
+    },
+    {
+        "difficult_word": "記章",
+        "easy_word": "記章(かっこ頸飾,星章)"
+    },
+    {
+        "difficult_word": "起請",
+        "easy_word": "起請(かっこたまわり,起請文)"
+    },
+    {
+        "difficult_word": "気性",
+        "easy_word": "気性(かっこ金遣い,男勝り)"
+    },
+    {
+        "difficult_word": "気象",
+        "easy_word": "気象(かっこ気象観測,地象)"
+    },
+    {
+        "difficult_word": "好調",
+        "easy_word": "好調(かっこ不振,売れ行き)"
+    },
+    {
+        "difficult_word": "高潮",
+        "easy_word": "高潮(かっこ地すべり,津波)"
+    },
+    {
+        "difficult_word": "校長",
+        "easy_word": "校長(かっこ副校長,園長)"
+    },
+    {
+        "difficult_word": "硬調",
+        "easy_word": "硬調(かっこポジ,グラスソリッド)"
+    },
+    {
+        "difficult_word": "黄鳥",
+        "easy_word": "黄鳥(かっこ海燕,霍公)"
+    },
+    {
+        "difficult_word": "高調",
+        "easy_word": "高調(かっこ音調,ラルグス)"
+    },
+    {
+        "difficult_word": "高張",
+        "easy_word": "高張(かっこサラシ,誘虫)"
+    },
+    {
+        "difficult_word": "紅潮",
+        "easy_word": "紅潮(かっこ腫れ上がり,赤らめ)"
+    },
+    {
+        "difficult_word": "公聴",
+        "easy_word": "公聴(かっこ付議,議会)"
+    },
+    {
+        "difficult_word": "刺傷",
+        "easy_word": "刺傷(かっこ咬傷,暴行)"
+    },
+    {
+        "difficult_word": "史生",
+        "easy_word": "史生(かっこ式部,道雄)"
+    },
+    {
+        "difficult_word": "四声",
+        "easy_word": "四声(かっこ五音,声調)"
+    },
+    {
+        "difficult_word": "四姓",
+        "easy_word": "四姓(かっこ北地郡,習宜)"
+    },
+    {
+        "difficult_word": "師匠",
+        "easy_word": "師匠(かっこ兄弟子,弟子)"
+    },
+    {
+        "difficult_word": "支障",
+        "easy_word": "支障(かっこ不都合,差し支える)"
+    },
+    {
+        "difficult_word": "死傷",
+        "easy_word": "死傷(かっこ餓死,死者)"
+    },
+    {
+        "difficult_word": "死生",
+        "easy_word": "死生(かっこ久遠,倫理)"
+    },
+    {
+        "difficult_word": "私娼",
+        "easy_word": "私娼(かっこ遊郭)"
+    },
+    {
+        "difficult_word": "詞章",
+        "easy_word": "詞章(かっこ音曲,間狂言)"
+    },
+    {
+        "difficult_word": "唐船",
+        "easy_word": "唐船(かっこ伝馬,ドーイ)"
+    },
+    {
+        "difficult_word": "当籤",
+        "easy_word": "当籤(かっこ当せん)"
+    },
+    {
+        "difficult_word": "当選",
+        "easy_word": "当選(かっこ初当選,落選)"
+    },
+    {
+        "difficult_word": "東遷",
+        "easy_word": "東遷(かっこ潜幸,邪馬壱国)"
+    },
+    {
+        "difficult_word": "登山",
+        "easy_word": "登山(かっこハイキング,トレッキング)"
+    },
+    {
+        "difficult_word": "京師",
+        "easy_word": "京師(かっこ北平,漢土)"
+    },
+    {
+        "difficult_word": "刑死",
+        "easy_word": "刑死(かっこ獄死)"
+    },
+    {
+        "difficult_word": "継嗣",
+        "easy_word": "継嗣(かっこ嗣子)"
+    },
+    {
+        "difficult_word": "継子",
+        "easy_word": "継子(かっこ義母,継父母)"
+    },
+    {
+        "difficult_word": "軽視",
+        "easy_word": "軽視(かっこ過小評価,蔑ろ)"
+    },
+    {
+        "difficult_word": "鑑賞",
+        "easy_word": "鑑賞(かっこ見物)"
+    },
+    {
+        "difficult_word": "観賞",
+        "easy_word": "観賞(かっこ切り花,見物)"
+    },
+    {
+        "difficult_word": "観照",
+        "easy_word": "観照(かっこ功利,観法)"
+    },
+    {
+        "difficult_word": "完勝",
+        "easy_word": "完勝(かっこ圧勝)"
+    },
+    {
+        "difficult_word": "干渉",
+        "easy_word": "干渉(かっこ介入)"
+    },
+    {
+        "difficult_word": "緩衝",
+        "easy_word": "緩衝(かっこ遮音,減摩)"
+    },
+    {
+        "difficult_word": "感傷",
+        "easy_word": "感傷(かっこ厭世,センチメンタル)"
+    },
+    {
+        "difficult_word": "勧奨",
+        "easy_word": "勧奨(かっこ行政指導,拒否)"
+    },
+    {
+        "difficult_word": "勧賞",
+        "easy_word": "勧賞(かっこ恩賞,恩命)"
+    },
+    {
+        "difficult_word": "管掌",
+        "easy_word": "管掌(かっこ統轄)"
+    },
+    {
+        "difficult_word": "官省",
+        "easy_word": "官省(かっこ官司,達示)"
+    },
+    {
+        "difficult_word": "奇士",
+        "easy_word": "奇士(かっこ倶舎,ニナイ)"
+    },
+    {
+        "difficult_word": "騎士",
+        "easy_word": "騎士(かっこ戦士,爵領)"
+    },
+    {
+        "difficult_word": "旗幟",
+        "easy_word": "旗幟(かっこ旗印,翩翻)"
+    },
+    {
+        "difficult_word": "棋士",
+        "easy_word": "棋士(かっこプロ棋士,対局)"
+    },
+    {
+        "difficult_word": "癸巳",
+        "easy_word": "癸巳(かっこ壬午,丑日)"
+    },
+    {
+        "difficult_word": "奉仕",
+        "easy_word": "奉仕(かっこ奉仕者,献身)"
+    },
+    {
+        "difficult_word": "奉祀",
+        "easy_word": "奉祀(かっこ合祀,遷祀)"
+    },
+    {
+        "difficult_word": "拍子",
+        "easy_word": "拍子(かっこ楽章,四拍子)"
+    },
+    {
+        "difficult_word": "法嗣",
+        "easy_word": "法嗣(かっこ住持,梅岩)"
+    },
+    {
+        "difficult_word": "法師",
+        "easy_word": "法師(かっこ和尚,吹路)"
+    },
+    {
+        "difficult_word": "褒詞",
+        "easy_word": "褒詞(かっこ謗り,恩命)"
+    },
+    {
+        "difficult_word": "小径",
+        "easy_word": "小径(かっこ薄肉,小道)"
+    },
+    {
+        "difficult_word": "小計",
+        "easy_word": "小計(かっこ電子ジャーナル,合計)"
+    },
+    {
+        "difficult_word": "憧憬",
+        "easy_word": "憧憬(かっこ渇望,憎悪)"
+    },
+    {
+        "difficult_word": "承継",
+        "easy_word": "承継(かっこ譲渡,継承)"
+    },
+    {
+        "difficult_word": "象形",
+        "easy_word": "象形(かっこ蠅,会意)"
+    },
+    {
+        "difficult_word": "周旋",
+        "easy_word": "周旋(かっこ介錯,あっせん)"
+    },
+    {
+        "difficult_word": "終戦",
+        "easy_word": "終戦(かっこ日米開戦,戦後)"
+    },
+    {
+        "difficult_word": "信士",
+        "easy_word": "信士(かっこ大姉,戒名)"
+    },
+    {
+        "difficult_word": "慎子",
+        "easy_word": "慎子(かっこいちごいちえ,千英子)"
+    },
+    {
+        "difficult_word": "振子",
+        "easy_word": "振子(かっこ折畳み,置時計)"
+    },
+    {
+        "difficult_word": "真摯",
+        "easy_word": "真摯(かっこ率直,誠実)"
+    },
+    {
+        "difficult_word": "紳士",
+        "easy_word": "紳士(かっこ淑女,鼻下長)"
+    },
+    {
+        "difficult_word": "臣子",
+        "easy_word": "臣子(かっこ奉り,重恩)"
+    },
+    {
+        "difficult_word": "親子",
+        "easy_word": "親子(かっこ父子)"
+    },
+    {
+        "difficult_word": "進士",
+        "easy_word": "進士(かっこ及第,科挙)"
+    },
+    {
+        "difficult_word": "士官",
+        "easy_word": "士官(かっこ将校)"
+    },
+    {
+        "difficult_word": "止観",
+        "easy_word": "止観(かっこ慈恩,観法)"
+    },
+    {
+        "difficult_word": "仕官",
+        "easy_word": "仕官(かっこ帰順)"
+    },
+    {
+        "difficult_word": "史観",
+        "easy_word": "史観(かっこ思想)"
+    },
+    {
+        "difficult_word": "弛緩",
+        "easy_word": "弛緩(かっこ壊死,ゆるみ)"
+    },
+    {
+        "difficult_word": "獅子",
+        "easy_word": "獅子(かっこ鷲)"
+    },
+    {
+        "difficult_word": "四肢",
+        "easy_word": "四肢(かっこ頸部,手足)"
+    },
+    {
+        "difficult_word": "嗣子",
+        "easy_word": "嗣子(かっこ継嗣,後嗣)"
+    },
+    {
+        "difficult_word": "志士",
+        "easy_word": "志士(かっこ浪士)"
+    },
+    {
+        "difficult_word": "刺史",
+        "easy_word": "刺史(かっこ都督,太守)"
+    },
+    {
+        "difficult_word": "詩史",
+        "easy_word": "詩史(かっこ伊勢物語,将吉郎)"
+    },
+    {
+        "difficult_word": "制止",
+        "easy_word": "制止(かっこ命乞い,一喝)"
+    },
+    {
+        "difficult_word": "勢至",
+        "easy_word": "勢至(かっこ観音菩薩,尊前)"
+    },
+    {
+        "difficult_word": "世子",
+        "easy_word": "世子(かっこ養嗣子,思悼)"
+    },
+    {
+        "difficult_word": "世嗣",
+        "easy_word": "世嗣(かっこ支藩,嫡子)"
+    },
+    {
+        "difficult_word": "姓氏",
+        "easy_word": "姓氏(かっこ聞書,四姓)"
+    },
+    {
+        "difficult_word": "正使",
+        "easy_word": "正使(かっこ副使)"
+    },
+    {
+        "difficult_word": "正視",
+        "easy_word": "正視(かっこ身震い,そむけよ)"
+    },
+    {
+        "difficult_word": "生死",
+        "easy_word": "生死(かっこ行方,命運)"
+    },
+    {
+        "difficult_word": "精子",
+        "easy_word": "精子(かっこバクテリア,スペルマ)"
+    },
+    {
+        "difficult_word": "聖旨",
+        "easy_word": "聖旨(かっこ詔書,渙発)"
+    },
+    {
+        "difficult_word": "製糸",
+        "easy_word": "製糸(かっこ製茶,養蚕)"
+    },
+    {
+        "difficult_word": "製紙",
+        "easy_word": "製紙(かっこ化学工業,板紙)"
+    },
+    {
+        "difficult_word": "誓紙",
+        "easy_word": "誓紙(かっこ起請文)"
+    },
+    {
+        "difficult_word": "誓詞",
+        "easy_word": "誓詞(かっこ起請文,請文)"
+    },
+    {
+        "difficult_word": "静止",
+        "easy_word": "静止(かっこ飛翔,画)"
+    },
+    {
+        "difficult_word": "偕行",
+        "easy_word": "偕行(かっこ拳道,ゼンボウ)"
+    },
+    {
+        "difficult_word": "回航",
+        "easy_word": "回航(かっこ曳航,入港)"
+    },
+    {
+        "difficult_word": "怪光",
+        "easy_word": "怪光(かっこゲッター,デビルビーム)"
+    },
+    {
+        "difficult_word": "恢弘",
+        "easy_word": "恢弘(かっこ一如,精神)"
+    },
+    {
+        "difficult_word": "改稿",
+        "easy_word": "改稿(かっこ増補,推敲)"
+    },
+    {
+        "difficult_word": "海港",
+        "easy_word": "海港(かっこ外港,商港)"
+    },
+    {
+        "difficult_word": "海溝",
+        "easy_word": "海溝(かっこ逆断層,海嶺)"
+    },
+    {
+        "difficult_word": "邂逅",
+        "easy_word": "邂逅(かっこ再会)"
+    },
+    {
+        "difficult_word": "開口",
+        "easy_word": "開口(かっこ湾曲,膨出)"
+    },
+    {
+        "difficult_word": "開校",
+        "easy_word": "開校(かっこ創立)"
+    },
+    {
+        "difficult_word": "開港",
+        "easy_word": "開港(かっこ就航,空港)"
+    },
+    {
+        "difficult_word": "開講",
+        "easy_word": "開講(かっこ受講)"
+    },
+    {
+        "difficult_word": "強硬",
+        "easy_word": "強硬(かっこ穏健)"
+    },
+    {
+        "difficult_word": "強行",
+        "easy_word": "強行(かっこ企図,踏み切っ)"
+    },
+    {
+        "difficult_word": "恐慌",
+        "easy_word": "恐慌(かっこ不況)"
+    },
+    {
+        "difficult_word": "教皇",
+        "easy_word": "教皇(かっこローマ教皇,法王)"
+    },
+    {
+        "difficult_word": "胸腔",
+        "easy_word": "胸腔(かっこ鼻腔,トロッカー)"
+    },
+    {
+        "difficult_word": "戴冠",
+        "easy_word": "戴冠(かっこ返り咲き,ポッペア)"
+    },
+    {
+        "difficult_word": "退官",
+        "easy_word": "退官(かっこ依願退職,昇任)"
+    },
+    {
+        "difficult_word": "耐寒",
+        "easy_word": "耐寒(かっこ寒冷地,防寒)"
+    },
+    {
+        "difficult_word": "体感",
+        "easy_word": "体感(かっこ追体験,体験)"
+    },
+    {
+        "difficult_word": "大鑑",
+        "easy_word": "大鑑(かっこ星取,名鑑)"
+    },
+    {
+        "difficult_word": "大艦",
+        "easy_word": "大艦(かっこ主力艦,渾作)"
+    },
+    {
+        "difficult_word": "大観",
+        "easy_word": "大観(かっこ図会,春草)"
+    },
+    {
+        "difficult_word": "大患",
+        "easy_word": "大患(かっこ部品調達,蜀道)"
+    },
+    {
+        "difficult_word": "大官",
+        "easy_word": "大官(かっこ閤,顕官)"
+    },
+    {
+        "difficult_word": "仮性",
+        "easy_word": "仮性(かっこ髄膜,包茎)"
+    },
+    {
+        "difficult_word": "加勢",
+        "easy_word": "加勢(かっこ助太刀,反撃)"
+    },
+    {
+        "difficult_word": "化成",
+        "easy_word": "化成(かっこ水産加工,クリロン)"
+    },
+    {
+        "difficult_word": "化生",
+        "easy_word": "化生(かっこ変じ,畜類)"
+    },
+    {
+        "difficult_word": "和声",
+        "easy_word": "和声(かっこ対位法)"
+    },
+    {
+        "difficult_word": "歌声",
+        "easy_word": "歌声(かっこ歌唱力,声質)"
+    },
+    {
+        "difficult_word": "歌聖",
+        "easy_word": "歌聖(かっこ小野道風,笠金村)"
+    },
+    {
+        "difficult_word": "河清",
+        "easy_word": "河清(かっこ系図纂要,思王)"
+    },
+    {
+        "difficult_word": "河西",
+        "easy_word": "河西(かっこ河東,更別)"
+    },
+    {
+        "difficult_word": "火勢",
+        "easy_word": "火勢(かっこ反日感情,燃え盛り)"
+    },
+    {
+        "difficult_word": "火星",
+        "easy_word": "火星(かっこ月面,土星)"
+    },
+    {
+        "difficult_word": "苛政",
+        "easy_word": "苛政(かっこ悪政,苛斂誅求)"
+    },
+    {
+        "difficult_word": "創始",
+        "easy_word": "創始(かっこ考案,開祖)"
+    },
+    {
+        "difficult_word": "双子",
+        "easy_word": "双子(かっこ三つ子)"
+    },
+    {
+        "difficult_word": "冊子",
+        "easy_word": "冊子(かっこリーフレット)"
+    },
+    {
+        "difficult_word": "壮士",
+        "easy_word": "壮士(かっこ馬賊,院外団)"
+    },
+    {
+        "difficult_word": "宗子",
+        "easy_word": "宗子(かっこ茂子,ノンジ)"
+    },
+    {
+        "difficult_word": "相思",
+        "easy_word": "相思(かっこ羇旅,默默)"
+    },
+    {
+        "difficult_word": "草市",
+        "easy_word": "草市(かっこりっし,墟市)"
+    },
+    {
+        "difficult_word": "口糧",
+        "easy_word": "口糧(かっこ副食,雑嚢)"
+    },
+    {
+        "difficult_word": "考量",
+        "easy_word": "考量(かっこ所得分配,顧慮)"
+    },
+    {
+        "difficult_word": "荒涼",
+        "easy_word": "荒涼(かっこごつごつ,寒々)"
+    },
+    {
+        "difficult_word": "香料",
+        "easy_word": "香料(かっこ香辛料,パラペン)"
+    },
+    {
+        "difficult_word": "校了",
+        "easy_word": "校了(かっこサービス放送,刷り上がる)"
+    },
+    {
+        "difficult_word": "綱領",
+        "easy_word": "綱領(かっこマニフェスト,理念)"
+    },
+    {
+        "difficult_word": "稿料",
+        "easy_word": "稿料(かっこ小遣い,前借)"
+    },
+    {
+        "difficult_word": "恭倹",
+        "easy_word": "恭倹(かっこ倶に,哀愍)"
+    },
+    {
+        "difficult_word": "恭謙",
+        "easy_word": "恭謙(かっこ篤実,資性)"
+    },
+    {
+        "difficult_word": "強健",
+        "easy_word": "強健(かっこ頑健,樹勢)"
+    },
+    {
+        "difficult_word": "強肩",
+        "easy_word": "強肩(かっこ俊足)"
+    },
+    {
+        "difficult_word": "強権",
+        "easy_word": "強権(かっこ強圧,独善)"
+    },
+    {
+        "difficult_word": "教権",
+        "easy_word": "教権(かっこ絶対主義,ガリカニスム)"
+    },
+    {
+        "difficult_word": "狂犬",
+        "easy_word": "狂犬(かっこ千人斬り,チンピラ)"
+    },
+    {
+        "difficult_word": "心証",
+        "easy_word": "心証(かっこ衛生状態,顔色)"
+    },
+    {
+        "difficult_word": "心象",
+        "easy_word": "心象(かっこ想像力,風景)"
+    },
+    {
+        "difficult_word": "心性",
+        "easy_word": "心性(かっこ思惟,思想)"
+    },
+    {
+        "difficult_word": "辛勝",
+        "easy_word": "辛勝(かっこ圧勝)"
+    },
+    {
+        "difficult_word": "新正",
+        "easy_word": "新正(かっこ明神社,阿倉川)"
+    },
+    {
+        "difficult_word": "身障",
+        "easy_word": "身障(かっこ障がい者,療護)"
+    },
+    {
+        "difficult_word": "身上",
+        "easy_word": "身上(かっこフットワーク,磊落)"
+    },
+    {
+        "difficult_word": "紳商",
+        "easy_word": "紳商(かっこ婦人会,人傑)"
+    },
+    {
+        "difficult_word": "揚揚",
+        "easy_word": "揚揚(かっこ勾,樂府)"
+    },
+    {
+        "difficult_word": "洋洋",
+        "easy_word": "洋洋(かっこ5条西,遼遠)"
+    },
+    {
+        "difficult_word": "様様",
+        "easy_word": "様様(かっこ大掛り,お蔭)"
+    },
+    {
+        "difficult_word": "鷹揚",
+        "easy_word": "鷹揚(かっこ豪放,おおらか)"
+    },
+    {
+        "difficult_word": "公人",
+        "easy_word": "公人(かっこ参考人,公権力)"
+    },
+    {
+        "difficult_word": "行人",
+        "easy_word": "行人(かっこ白龍,花圃)"
+    },
+    {
+        "difficult_word": "後人",
+        "easy_word": "後人(かっこ跋文,其儘)"
+    },
+    {
+        "difficult_word": "後塵",
+        "easy_word": "後塵(かっこ拝,拝す)"
+    },
+    {
+        "difficult_word": "荒神",
+        "easy_word": "荒神(かっこ田道,福力)"
+    },
+    {
+        "difficult_word": "黄塵",
+        "easy_word": "黄塵(かっこ西遊,天際)"
+    }
+]
